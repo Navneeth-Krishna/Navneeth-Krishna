@@ -26,15 +26,6 @@ Welcome to My GitHub!
 
 ---
 
-## 📈 GitHub Stats
-
-![Navneeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NavneethKrishnaA&show_icons=true&theme=radical&hide=contribs,prs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavneethKrishnaA&layout=compact&theme=radical)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=NavneethKrishnaA&style=flat-square&color=blue)
-
----
 
 ## 🤝 Let's Connect
 
