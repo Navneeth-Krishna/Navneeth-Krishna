@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm Navneeth Krishna Aravind!
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2f80ed,100:56cc9d&height=220&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=ffffff)
+#  Welcome to My GitHub!
+
+> *"Code to learn, build to impact."*  
+> Passionate about using AI and data to solve real-world problems.
+
 
 ## 🚀 About Me
 
