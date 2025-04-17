@@ -69,7 +69,7 @@ Welcome to My GitHub!
   </tr>
   <tr>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/><br>Power BI
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_BPI_icon1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=96&hei=96&qlt=100&fmt=png-alpha&fit=constrain)" width="40"/><br>Power BI
     </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40"/><br>Tableau
@@ -85,6 +85,12 @@ Welcome to My GitHub!
     <td align="center" width="100">
       <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="80"/><br>Streamlit
     </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="80"/><br>Xamarin
+    </td>  
+    <td align="center" width="100">
+      <img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2021/10/shadow.png" width="80"/><br>.NET MAUI
+    </td> 
   </tr>
 </table>
 
