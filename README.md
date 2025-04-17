@@ -73,7 +73,10 @@ Welcome to My GitHub!
     </td>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40"/><br>Tableau
-    </td>
+    </td> 
+  <td align="center" width="100">
+    <img src="https://i.pinimg.com/736x/cb/1c/0f/cb1c0f512b3425b1c743e51ee17eb56c.jpg" width="40"/><br>LLMs
+  </td>
   </tr>
 </table>
 
