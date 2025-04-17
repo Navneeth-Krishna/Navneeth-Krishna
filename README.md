@@ -77,6 +77,7 @@ Welcome to My GitHub!
   <td align="center" width="100">
     <img src="https://i.pinimg.com/736x/cb/1c/0f/cb1c0f512b3425b1c743e51ee17eb56c.jpg" width="40"/><br>LLMs
   </td>
+  </tr>
     <tr>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40"/><br>Flask
