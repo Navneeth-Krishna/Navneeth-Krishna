@@ -84,7 +84,7 @@ Welcome to My GitHub!
 
 ## 🤝 Let's Connect
 
-📬 Email: navneeth.krishna@gmail.com  
+📬 Email: a.navneethkrishna@gmail.com  
 💼 LinkedIn: [Navneeth Krishna Aravind](https://www.linkedin.com/in/navneethkrishna/)  
 
 ---
