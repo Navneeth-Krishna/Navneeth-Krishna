@@ -2,8 +2,8 @@
 
 Welcome to My GitHub!
 
-> *"Code to learn, build to impact."*  
-> Passionate about using AI and data to solve real-world problems.
+*"Code to learn, build to impact."*  
+ Passionate about using AI and data to solve real-world problems.
 
 
 ## 🚀 About Me
