@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Navneeth Krishna Aravind!
+# Hi there, I'm Navneeth Krishna Aravind!
 
 Welcome to My GitHub!
 
@@ -6,7 +6,7 @@ Welcome to My GitHub!
  Passionate about using AI and data to solve real-world problems.
 
 
-## 🚀 About Me
+## About Me
 
 🎓 I'm a **Master’s student in Applied Data Science and Analytics** at **SRH University Heidelberg**, with a Bachelor's in Mechatronics.
 
@@ -117,7 +117,7 @@ Welcome to My GitHub!
 </table>
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 📬 Email: a.navneethkrishna@gmail.com  
 💼 LinkedIn: [Navneeth Krishna Aravind](https://www.linkedin.com/in/navneeth-krishna-a-a859a71b3)  
