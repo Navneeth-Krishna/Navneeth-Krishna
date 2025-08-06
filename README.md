@@ -8,15 +8,15 @@ Welcome to My GitHub!
 
 ## About Me
 
-🎓 I'm a **Master’s student in Applied Data Science and Analytics** at **SRH University Heidelberg**, with a Bachelor's in Mechatronics.
+I'm a **Master’s student in Applied Data Science and Analytics** at **SRH University Heidelberg**, with a Bachelor's in Mechatronics.
 
-💼 Previously, I worked as a **Mobile Application Developer at Tata Consultancy Services**, building scalable solutions for global retail clients.
+Previously, I worked as a **Mobile Application Developer at Tata Consultancy Services**, building scalable solutions for global retail clients.
 
-🧠 I’m passionate about **Machine Learning**, **Natural Language Processing (NLP)**, and **Cloud Technologies**, and I'm constantly exploring ways to integrate them into impactful real-world applications.
+I’m passionate about **Machine Learning**, **Natural Language Processing (NLP)**, and **Cloud Technologies**, and I'm constantly exploring ways to integrate them into impactful real-world applications.
 
 ---
 
-## 🛠 Tech Stack & Skills
+## Tech Stack & Skills
 
 <table>
   <!-- Programming Languages -->
