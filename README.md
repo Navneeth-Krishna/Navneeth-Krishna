@@ -119,11 +119,11 @@ I’m passionate about **Machine Learning**, **Natural Language Processing (NLP)
 
 ## Let's Connect
 
-📬 Email: a.navneethkrishna@gmail.com  
-💼 LinkedIn: [Navneeth Krishna Aravind](https://www.linkedin.com/in/navneeth-krishna-a-a859a71b3)  
+Email: a.navneethkrishna@gmail.com  
+LinkedIn: [Navneeth Krishna Aravind](www.linkedin.com/in/navneeth-krishna-aravind)  
 
 ---
 
-💡 *Open to collaborations in AI, NLP, and Cloud-based projects!*  
-🌱 *Currently exploring cutting-edge Generative AI tools & applications!*
+*Open to collaborations in AI, NLP, and Cloud-based projects!*  
+*Currently exploring cutting-edge Generative AI tools & applications!*
 
