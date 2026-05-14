@@ -120,7 +120,7 @@ I’m passionate about **Machine Learning**, **Natural Language Processing (NLP)
 ## Let's Connect
 
 Email: a.navneethkrishna@gmail.com  
-LinkedIn: [Navneeth Krishna Aravind](www.linkedin.com/in/navneeth-krishna-aravind)  
+LinkedIn: [Navneeth Krishna Aravind](https://www.linkedin.com/in/navneeth-krishna-aravind/)  
 
 ---
 
